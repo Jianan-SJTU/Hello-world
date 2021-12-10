@@ -8,4 +8,4 @@ It's nice of you to read my README.
 Hope we can be goodfriends!
 
 ---
-How to branch？？
+I know how to branch！
