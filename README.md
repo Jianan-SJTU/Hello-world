@@ -8,8 +8,12 @@ It's nice of you to read my README.
 Hope we can be goodfriends!
 
 ---
-I know how to do this！
+I know how to do these！
 
+- 代码块
 ```
-print( " I am so cute " )
+print( " I am so cute！ " )
 ```
+- 取消 fork
+- 加小点
+- 换行
